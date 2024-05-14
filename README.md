@@ -1,1 +1,1 @@
-In this repository are the ipynb file with the code and the csv/xlsx files with the data used in the code.
+In this repository are the ipynb files with the code and the csv/xlsx files that contain the data.
